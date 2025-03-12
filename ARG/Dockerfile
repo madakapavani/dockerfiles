@@ -1,4 +1,4 @@
-FROM lmalinux:9
+FROM almalinux:9
 ENV course="devops with aws" \
     trainer="sivakumar reddy" \
     duration="120 HRS"
